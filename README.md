@@ -242,4 +242,4 @@ This repository serves as the official landing page for Hay Day. The software is
 **Get the most recent version of Hay Day today!**
 
 ---
-**Last updated:** 2026-10-05 08:38:11 UTC
+**Last updated:** 2026-10-05 18:07:20 UTC
